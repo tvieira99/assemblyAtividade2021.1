@@ -1,0 +1,1 @@
+Os dois bits estarão com o valor 1.

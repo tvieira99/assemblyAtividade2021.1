@@ -1,0 +1,5 @@
+[17:26:59] Warning! Errors have occurred in the build:
+/tmp/SASM/program.asm:10: error: invalid combination of opcode and operands
+/tmp/SASM/program.asm:11: error: invalid combination of opcode and operands
+gcc: error: /tmp/SASM/program.o: Arquivo ou diretório inexistente
+

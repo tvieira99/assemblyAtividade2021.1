@@ -1,0 +1,11 @@
+1.sim, o valor do sign flag(SF) será 1 enquanto todos os outros serão 0 porque o número será negativo.
+1.O valor do Sign Flag (SF) é negativo após a operação.
+
+2.O valor do overflow flag (OF) será 1 enquanto os outros serão 0 por conta do valor ter feito uma volta inteira na representação de complemento de 2.
+
+3.O valor, tanto do overflow tag, quanto do carry flag (CF) será 1 enquanto os outros serão 0 por conta do valor ter feito uma volta inteira e depois, realizou uma adição que teve um bit carregado. Ainda depois, o flag CF foi zerado e, em seu lugar, 
+o flag SF foi ligado, mostrando que o número em que foi realizada a operação é negativo.
+
+4.O valor do Zero Flag (ZF) é 1 pois o valor da subtração é 0, e PF é 1 pois o número 0 tem 0 bits em sua representação.
+
+5.O valor de CF, ZF e PF é 1 pois: a operação gerou um bit carregado; a operação resultou em 0; o flag SF foi ligado, mostrando que o número em que foi realizada a operação é negativo.

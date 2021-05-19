@@ -1,0 +1,4 @@
+eax = 0xffffa69b
+bx = 0xa69b
+edx = 0xffffff9b
+ecx = 0x4a78ff9b

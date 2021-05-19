@@ -1,0 +1,3 @@
+exercicios 2 falhou
+gcc: error: /tmp/SASM/program.o: Arquivo ou diretório inexistente
+[17:25:35] Before debugging you need to build the program.

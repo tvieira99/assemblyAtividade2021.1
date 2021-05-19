@@ -1,0 +1,2 @@
+1. O valor de AX será 0xb14;
+2. Houve erro de execução
